@@ -1,0 +1,4 @@
+Varios
+======
+
+Utilidades varias
